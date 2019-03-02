@@ -11,4 +11,4 @@ Open [http://157.230.232.64/gp-reaction/](http://157.230.232.64/gp-reaction/) to
 
 ### Happy Coding (GBCODERS)
 
-Create by Pardip Bhatti, Web: https://www.gbcoders.com
+Developed by Pardip Bhatti, Web: https://www.gbcoders.com
